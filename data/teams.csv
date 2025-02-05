@@ -1,0 +1,170 @@
+team_id,is_latest_name,team_name,first_year,last_year
+1,1,Arizona Cardinals,1920,2024
+1,0,Chicago Cardinals,1920,1943
+1,0,Chi/Pit Cards/Steelers,1944,1944
+1,0,Chicago Cardinals,1945,1959
+1,0,St. Louis Cardinals,1960,1987
+1,0,Phoenix Cardinals,1988,1993
+1,0,Arizona Cardinals,1994,2024
+2,1,Atlanta Falcons,1966,2024
+3,1,Baltimore Ravens,1996,2024
+4,1,Buffalo Bills,1960,2024
+5,1,Carolina Panthers,1995,2024
+6,1,Chicago Bears,1920,2024
+6,0,Decatur Staleys,1920,1920
+6,0,Chicago Staleys,1921,1921
+6,0,Chicago Bears,1922,2024
+7,1,Cincinnati Bengals,1968,2024
+8,1,Cleveland Browns,1946,2024
+9,1,Dallas Cowboys,1960,2024
+10,1,Denver Broncos,1960,2024
+11,1,Detroit Lions,1930,2024
+11,0,Portsmouth Spartans,1930,1933
+11,0,Detroit Lions,1934,2024
+12,1,Green Bay Packers,1921,2024
+13,1,Houston Texans,2002,2024
+14,1,Indianapolis Colts,1953,2024
+14,0,Baltimore Colts,1953,1983
+14,0,Indianapolis Colts,1984,2024
+15,1,Jacksonville Jaguars,1995,2024
+16,1,Kansas City Chiefs,1960,2024
+16,0,Dallas Texans,1960,1962
+16,0,Kansas City Chiefs,1963,2024
+17,1,Las Vegas Raiders,1960,2024
+17,0,Oakland Raiders,1960,1981
+17,0,Los Angeles Raiders,1982,1994
+17,0,Oakland Raiders,1995,2019
+17,0,Las Vegas Raiders,2020,2024
+18,1,Los Angeles Chargers,1960,2024
+18,0,Los Angeles Chargers,1960,1960
+18,0,San Diego Chargers,1961,2016
+18,0,Los Angeles Chargers,2017,2024
+19,1,Los Angeles Rams,1937,2024
+19,0,Cleveland Rams,1937,1945
+19,0,Los Angeles Rams,1946,1994
+19,0,St. Louis Rams,1995,2015
+19,0,Los Angeles Rams,2016,2024
+20,1,Miami Dolphins,1966,2024
+21,1,Minnesota Vikings,1961,2024
+22,1,New England Patriots,1960,2024
+22,0,Boston Patriots,1960,1970
+22,0,New England Patriots,1971,2024
+23,1,New Orleans Saints,1967,2024
+24,1,New York Giants,1925,2024
+25,1,New York Jets,1960,2024
+25,0,New York Titans,1960,1962
+25,0,New York Jets,1963,2024
+26,1,Philadelphia Eagles,1933,2024
+26,0,Philadelphia Eagles,1933,1942
+26,0,Phi/Pit Eagles/Steelers,1943,1943
+26,0,Philadelphia Eagles,1944,2024
+27,1,Pittsburgh Steelers,1933,2024
+27,0,Pittsburgh Pirates,1933,1939
+27,0,Pittsburgh Steelers,1940,1942
+27,0,Phi/Pit Eagles/Steelers,1943,1943
+27,0,Chi/Pit Cards/Steelers,1944,1944
+27,0,Pittsburgh Steelers,1945,2024
+28,1,San Francisco 49ers,1946,2024
+29,1,Seattle Seahawks,1976,2024
+30,1,Tampa Bay Buccaneers,1976,2024
+31,1,Tennessee Titans,1960,2024
+31,0,Houston Oilers,1960,1996
+31,0,Tennessee Oilers,1997,1998
+31,0,Tennessee Titans,1999,2024
+32,1,Washington Commanders,1932,2024
+32,0,Boston Braves,1932,1932
+32,0,Boston Redskins,1933,1936
+32,0,Washington Redskins,1937,2019
+32,0,Washington Football Team,2020,2021
+32,0,Washington Commanders,2022,2024
+33,1,Akron Indians,1920,1926
+33,0,Akron Pros,1920,1925
+33,0,Akron Indians,1926,1926
+34,1,Baltimore Colts,1947,1950
+35,1,Boston Bulldogs,1925,1929
+35,0,Pottsville Maroons,1925,1928
+35,0,Boston Bulldogs,1929,1929
+36,1,Boston Yanks,1944,1948
+36,0,Boston Yanks,1944,1944
+36,0,Bos/Bkn Yanks/Tigers,1945,1945
+36,0,Boston Yanks,1946,1948
+37,1,Brooklyn Dodgers,1946,1948
+38,1,Brooklyn Lions,1926,1926
+39,1,Brooklyn Tigers,1930,1944
+39,0,Brooklyn Dodgers,1930,1943
+39,0,Brooklyn Tigers,1944,1944
+40,1,Buffalo Bills,1946,1949
+40,0,Buffalo Bisons,1946,1946
+40,0,Buffalo Bills,1947,1949
+41,1,Buffalo Bisons,1920,1929
+41,0,Buffalo All-Americans,1920,1923
+41,0,Buffalo Bisons,1924,1925
+41,0,Buffalo Rangers,1926,1926
+41,0,Buffalo Bisons,1927,1929
+42,1,Canton Bulldogs,1920,1926
+43,1,Chicago Hornets,1946,1949
+43,0,Chicago Rockets,1946,1948
+43,0,Chicago Hornets,1949,1949
+44,1,Chicago Tigers,1920,1920
+45,1,Cincinnati Celts,1921,1921
+46,1,Cincinnati Reds,1933,1934
+47,1,Cleveland Bulldogs,1923,1927
+47,0,Cleveland Indians,1923,1923
+47,0,Cleveland Bulldogs,1924,1927
+48,1,Cleveland Indians,1931,1931
+49,1,Cleveland Indians,1920,1921
+49,0,Cleveland Tigers,1920,1920
+49,0,Cleveland Indians,1921,1921
+50,1,Columbus Tigers,1920,1926
+50,0,Columbus Panhandles,1920,1922
+50,0,Columbus Tigers,1923,1926
+51,1,Dallas Texans,1952,1952
+52,1,Dayton Triangles,1920,1929
+53,1,Detroit Heralds,1920,1920
+54,1,Detroit Panthers,1925,1926
+55,1,Detroit Tigers,1921,1921
+56,1,Detroit Wolverines,1928,1928
+57,1,Duluth Eskimos,1923,1927
+57,0,Duluth Kelleys,1923,1925
+57,0,Duluth Eskimos,1926,1927
+58,1,Evansville Crimson Giants,1921,1922
+59,1,Frankford Yellow Jackets,1924,1931
+60,1,Hammond Pros,1920,1926
+61,1,Hartford Blues,1926,1926
+62,1,Kansas City Cowboys,1924,1926
+62,0,Kansas City Blues,1924,1924
+62,0,Kansas City Cowboys,1925,1926
+63,1,Kenosha Maroons,1924,1924
+64,1,Los Angeles Buccaneers,1926,1926
+65,1,Los Angeles Dons,1946,1949
+66,1,Louisville Colonels,1921,1926
+66,0,Louisville Brecks,1921,1923
+66,0,Louisville Colonels,1926,1926
+67,1,Miami Seahawks,1946,1946
+68,1,Milwaukee Badgers,1922,1926
+69,1,Minneapolis Red Jackets,1921,1930
+69,0,Minneapolis Marines,1921,1924
+69,0,Minneapolis Red Jackets,1929,1930
+70,1,Muncie Flyers,1920,1921
+71,1,New York Brickley Giants,1921,1921
+72,1,New York Yankees,1946,1949
+73,1,New York Yankees,1927,1928
+74,1,New York Yanks,1949,1951
+74,0,New York Bulldogs,1949,1949
+74,0,New York Yanks,1950,1951
+75,1,Newark Tornadoes,1929,1930
+75,0,Orange Tornadoes,1929,1929
+75,0,Newark Tornadoes,1930,1930
+76,1,Oorang Indians,1922,1923
+77,1,Providence Steam Roller,1925,1931
+78,1,Racine Tornadoes,1922,1926
+78,0,Racine Legion,1922,1924
+78,0,Racine Tornadoes,1926,1926
+79,1,Rochester Jeffersons,1920,1925
+80,1,Rock Island Independents,1920,1925
+81,1,St. Louis All-Stars,1923,1923
+82,1,St. Louis Gunners,1934,1934
+83,1,Staten Island Stapletons,1929,1932
+84,1,Toledo Maroons,1922,1923
+85,1,Tonawanda Kardex,1921,1921
+86,1,Washington Senators,1921,1921
